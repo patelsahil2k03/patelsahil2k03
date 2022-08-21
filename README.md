@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MACHINE LEARNING AND APP DEVELOPMENT**
 
-- 📫 How to reach me **patelsahil2k03@gmail.com**
+- 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
 
 - ⚡ Fun fact **Enthusiastic Extra Mile person**
 
