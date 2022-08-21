@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
 
-- ⚡ Fun fact **Enthusiastic Extra Mile person**
+- ⚡ Fun fact i am a **Enthusiastic , Extra Mile person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
