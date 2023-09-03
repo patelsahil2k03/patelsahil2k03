@@ -30,9 +30,9 @@ I am also an Open-Source and Tech enthusiast.
 
 I have Interned for 3 Organizations in the Roles: 
 
-1* (Machine Learning)Data Science Intern.
-2* (C#) .NET Developer.
-3* (MEAN STACK) Full Stack Development.
+- 1* (Machine Learning)Data Science Intern.
+- 2* (C#) .NET Developer.
+- 3* (MEAN STACK) Full Stack Development.
 
 I am currently Expanding my Skillset in Cloud Computing and Deep Learning through Research projects, etc.
 
