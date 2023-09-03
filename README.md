@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAHIL PATEL</h1>
-<h3 align="center">3rd Year Computer Engineering Student and a Sportsperson.⚽🏓 Enthusiastic and always keen to learn about new domains in my field. | 2* coder on codechef | Codechef college chapter member | Cyber security | Machine learning | C | C++ |Java| Python | Android Development | Web Development |</h3>
+<h3 align="center">4th Year Computer Engineering Student and a Sportsperson.⚽🏓 Enthusiastic and always keen to learn about new domains in my field. | 2* coder on CodeChef | Codechef college chapter member | Cyber security | Machine learning | C | C++ |Java| Python | Android Development | Web Development |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelsahil2k03&label=Profile%20views&color=0e75b6&style=flat" alt="patelsahil2k03" /> </p>
 
@@ -7,13 +7,38 @@
 
 - 🌱 I’m currently learning **ML & WEB/APP FRONTEND BACKEND**
 
-- 💬 Ask me about **MACHINE LEARNING AND APP DEVELOPMENT**
+- 💬 Ask me about **MACHINE LEARNING AND FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
 
 - ⚡ Fun fact i am a **Enthusiastic , Extra Mile person**
 
 <h3 align="left">Connect with me:</h3>
+
+Final Year Computer Engineering Student and a Sportsperson.⚽🏓
+
+Current CGPA : 9.29
+
+Enthusiastic and always keen to learn about new domains in my field.
+| 2* coder on CodeChef | Codechef college chapter member | AI/ML College Club member | Machine learning | C | C++ |Java| Python | Web Development | Cloud |
+
+https://github.com/patelsahil2k03
+
+Hi, I'm an Under-Grad (Senior) in Computer Engineering at CHARUSAT University. My passion is to learn more about technology starting from Machine Learning and went on to learn about pure software domain and deployment (Web development and Cloud Computing)
+
+I am interested in Full Stack Development, Cloud Computing, and ML/DL. I have explored many tech stacks apart from these also. Always open to learning new and interesting stuff. I like to explore new ways and technologies to work on something innovative and share it with others.
+I am also an Open-Source and Tech enthusiast.
+
+I have Interned for 3 Organizations in the Roles: 
+
+1* (Machine Learning)Data Science Intern.
+2* (C#) .NET Developer.
+3* (MEAN STACK) Full Stack Development.
+
+I am currently Expanding my Skillset in Cloud Computing and Deep Learning through Research projects, etc.
+
+(Meanwhile, sit back and skim through my projects, maybe we could collaborate on the next one.)
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-patel-581226205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-patel-581226205" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/sahil_patel010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sahil_patel010" height="30" width="40" /></a>
