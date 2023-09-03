@@ -13,11 +13,10 @@
 
 - ⚡ Fun fact i am a **Enthusiastic , Extra Mile person**
 
-<h3 align="left">Connect with me:</h3>
 
 Final Year Computer Engineering Student and a Sportsperson.⚽🏓
 
-Current CGPA : 9.29
+Current CGPA: 9.29
 
 Enthusiastic and always keen to learn about new domains in my field.
 | 2* coder on CodeChef | Codechef college chapter member | AI/ML College Club member | Machine learning | C | C++ |Java| Python | Web Development | Cloud |
@@ -38,6 +37,8 @@ I have Interned for 3 Organizations in the Roles:
 I am currently Expanding my Skillset in Cloud Computing and Deep Learning through Research projects, etc.
 
 (Meanwhile, sit back and skim through my projects, maybe we could collaborate on the next one.)
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-patel-581226205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-patel-581226205" height="30" width="40" /></a>
