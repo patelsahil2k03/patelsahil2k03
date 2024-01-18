@@ -45,8 +45,8 @@ I am currently Expanding my Skillset in Cloud Computing and Deep Learning throug
 <a href="https://instagram.com/https://instagram.com/sahil_patel010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sahil_patel010" height="30" width="40" /></a>
 <a href="https://medium.com/@patelsahil2k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@patelsahil2k03" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-8ewi6QuzDW8l5x9OysdtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-8ewi6quzdw8l5x9oysdta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sahilpatel2k03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sahilpatel2k03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/patelsahil2k03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/patelsahil2k03/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sahilpatel2k03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sahilpatel2k03" height="30" width="40" /></a>
+<a href="https://leetcode.com/patelsahil2k03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/patelsahil2k03/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
