@@ -5,38 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelsahil2k03" alt="patelsahil2k03" /></a> </p>
 
-- 🌱 I’m currently learning **ML & WEB/APP FRONTEND BACKEND**
+Hi !
+I’m Sahil Patel, a Computer Engineering graduate from CHARUSAT University with a CGPA of 9.35 and a sportsperson at heart ⚽🏓. 
 
-- 💬 Ask me about **MACHINE LEARNING AND FULL STACK DEVELOPMENT**
+I’m passionate about technology and continuously upskill myself through competitive coding problems and hands-on projects.
 
-- 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
+My journey started with Machine Learning and has since expanded into Full Stack Development, Cloud Computing, and Deployment. I’m was an active member of the CodeChef College Chapter and the AI/ML College Club, always eager to embrace new technologies and innovate.
 
-- ⚡ Fun fact i am a **Enthusiastic , Extra Mile person**
+Professional Experience:
 
+Data Science Intern (ML) – Learning and Applying ML for real world usecases .
+.NET Developer Intern – Learning and Building scalable applications using C# and .NET frameworks.
+Full Stack Developer Intern – Designed and implemented full-stack web applications using the MEAN stack.
+Python Developer Intern (AI-ML) – Worked on advanced AI and ML projects to deliver intelligent solutions.
 
-Final Year Computer Engineering Student and a Sportsperson.⚽🏓
+I’ve co-authored two research papers, one published in Springer and another in AIP, and I’m currently expanding my skillset in Cloud Computing and Deep Learning through ongoing research projects.
 
-Current CGPA: 9.29
+I’m also an open-source enthusiast and love collaborating on innovative projects that push the boundaries of what technology can achieve.
 
-Enthusiastic and always keen to learn about new domains in my field.
-| 2* coder on CodeChef | Codechef college chapter member | AI/ML College Club member | Machine learning | C | C++ |Java| Python | Web Development | Cloud |
+Let’s connect and explore new opportunities together!
 
 https://github.com/patelsahil2k03
 
-Hi, I'm an Under-Grad (Senior) in Computer Engineering at CHARUSAT University. My passion is to learn more about technology starting from Machine Learning and went on to learn about pure software domain and deployment (Web development and Cloud Computing)
-
-I am interested in Full Stack Development, Cloud Computing, and ML/DL. I have explored many tech stacks apart from these also. Always open to learning new and interesting stuff. I like to explore new ways and technologies to work on something innovative and share it with others.
-I am also an Open-Source and Tech enthusiast.
-
-I have Interned for 3 Organizations in the Roles: 
-
-- 1* (Machine Learning)Data Science Intern.
-- 2* (C#) .NET Developer.
-- 3* (MEAN STACK) Full Stack Development.
-
-I am currently Expanding my Skillset in Cloud Computing and Deep Learning through Research projects, etc.
-
-(Meanwhile, sit back and skim through my projects, maybe we could collaborate on the next one.)
+--> 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
 
 <h3 align="left">Connect with me:</h3>
 
