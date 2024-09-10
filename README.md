@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAHIL PATEL</h1>
-<h3 align="center">4th Year Computer Engineering Student and a Sportsperson.⚽🏓 Enthusiastic and always keen to learn about new domains in my field. | 2* coder on CodeChef | Codechef college chapter member | Cyber security | Machine learning | C | C++ |Java| Python | Android Development | Web Development |</h3>
+<h3 align="center">Associate Software Engineer @Digiflux Technologies | AI - ML | Full Stack | Cloud | Aspiring Data Scientist | 1x Nvidia Certified
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelsahil2k03&label=Profile%20views&color=0e75b6&style=flat" alt="patelsahil2k03" /> </p>
 
