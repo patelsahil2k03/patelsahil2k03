@@ -48,8 +48,11 @@ As an avid, competitive footballer, I have represented my university in the Nati
 I’m always open to collaborations, discussions, and opportunities in AI, Full Stack Development, and Cloud Engineering. If you’re working on an innovative project or just want to geek out over the latest in AI/ML, let’s talk! 🚀
 
 📩 **Email: patelsahil2k03@gmail.com**
+
 🔗 **LinkedIn: linkedin.com/in/sahil-patel-581226205**
+
 👨‍💻 **GitHub: github.com/patelsahil2k03**
+
 💡 **LeetCode: leetcode.com/patelsahil2k03**
 
 <h3 align="left">Connect with me:</h3>
