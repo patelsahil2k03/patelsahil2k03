@@ -6,29 +6,51 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelsahil2k03" alt="patelsahil2k03" /></a> </p>
 
-Hi !
-I’m Sahil Patel, a Computer Engineering graduate from CHARUSAT University with a CGPA of 9.35 and a sportsperson at heart ⚽🏓. 
+🚀About Me
 
-I’m passionate about technology and continuously upskill myself through competitive coding problems and hands-on projects.
+Hi, I’m Sahil Patel, a Computer Engineer passionate about AI, Full Stack Development, and Cloud Computing. I graduated from CHARUSAT University (CGPA: 9.35) and have built a strong foundation in competitive coding, real-world projects, and open-source collaboration.⚽🏓
 
-My journey started with Machine Learning and has since expanded into Full Stack Development, Cloud Computing, and Deployment. I’m was an active member of the CodeChef College Chapter and the AI/ML College Club, always eager to embrace new technologies and innovate.
+Always eager to innovate, I specialize in scalable applications, AI/ML solutions, and cloud infrastructure. I stay active in the tech community and continuously explore emerging technologies to solve real-world challenges.
 
-Professional Experience:
+💼 Professional Experience
 
-Data Science Intern (ML) – Learning and Applying ML for real world usecases .
-.NET Developer Intern – Learning and Building scalable applications using C# and .NET frameworks.
-Full Stack Developer Intern – Designed and implemented full-stack web applications using the MEAN stack.
-Python Developer Intern (AI-ML) – Worked on advanced AI and ML projects to deliver intelligent solutions.
+🔹Associate Software Engineer @ Digiflux Technologies
+Building AI-driven applications, integrating LLMs, LangChain, OpenAI, and leveraging AWS (SageMaker, DynamoDB, Lambda, CloudWatch) for scalable solutions.
 
-I’ve co-authored two research papers, one published in Springer and another in AIP, and I’m currently expanding my skillset in Cloud Computing and Deep Learning through ongoing research projects.
+🔹.NET Developer Intern @ L&T Technology Services
+Engineered web applications using ASP.NET MVC, ASP.NET Core, C#, and JavaScript, streamlining business processes.
 
-I’m also an open-source enthusiast and love collaborating on innovative projects that push the boundaries of what technology can achieve.
+🔹Full Stack Developer Intern @ Motorola Solutions
+Developed full-stack applications using MEAN stack (MongoDB, Express, Angular, Node.js),
 
-Let’s connect and explore new opportunities together!
+🔹Python Developer Intern (AI-ML) @ L&T Energy-Power
+Created AI-powered chatbots using RASA, implementing real-world NLP solutions.
 
-https://github.com/patelsahil2k03
+🔬Research & Innovation
+📌 Co-authored Research Papers:
+✔️ Deep Learning for Question Paper Evaluation (Springer ICTIS 2024)
+✔️ Small Object Detection in Aerial Imagery (YOLOv8) (AIP ICRAIC 2024)
 
---> 📫 How to reach me **patelsahil2k03@gmail.com** **https://www.linkedin.com/in/sahil-patel-581226205**
+Currently exploring Deep Learning & Cloud Computing in research projects.
+
+🛠️ Tech Stack & Skills
+💡 Languages: C/C++, Python, JavaScript/TypeScript, C#
+💡 Frameworks: Next.js, Angular, .NET, LangChain, ASP.NET MVC
+💡 Libraries: TensorFlow, NumPy, Pandas, Scikit-learn, React
+💡 Cloud & DevOps: AWS SageMaker, Docker, Power BI, PostgreSQL, MongoDB
+
+I stay active in the developer community, contributing to open-source projects and participating in tech events, hackathons, and AI/ML forums.
+
+⚽Beyond Tech
+As an avid, competitive footballer, I have represented my university in the National West Zone Inter-University Football Tournament (2022 and 2023). The discipline, resilience, and teamwork I’ve learned from sports seamlessly translate into my approach to problem-solving and collaboration in tech.
+
+🤝Let’s Connect
+I’m always open to collaborations, discussions, and opportunities in AI, Full Stack Development, and Cloud Engineering. If you’re working on an innovative project or just want to geek out over the latest in AI/ML, let’s talk! 🚀
+
+📩 **Email: patelsahil2k03@gmail.com**
+🔗 **LinkedIn: linkedin.com/in/sahil-patel-581226205**
+👨‍💻 **GitHub: github.com/patelsahil2k03**
+💡 **LeetCode: leetcode.com/patelsahil2k03**
 
 <h3 align="left">Connect with me:</h3>
 
