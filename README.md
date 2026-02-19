@@ -1,81 +1,311 @@
-<h1 align="center">Hi 👋, I'm SAHIL PATEL</h1>
-<h3 align="center">Associate Software Engineer | AI - ML | Full Stack | Cloud | Aspiring Data Scientist | 1x Nvidia Certified
-</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelsahil2k03&label=Profile%20views&color=0e75b6&style=flat" alt="patelsahil2k03" /> </p>
+<!-- TODO: Add your custom cyberpunk banner image here -->
+<!-- <img src="banner.png" alt="Sahil Patel - Software Engineer" width="100%"/> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelsahil2k03" alt="patelsahil2k03" /></a> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Patel;Associate+Software+Engineer;AI+%7C+ML+%7C+Full+Stack+Developer;Data+Scientist+in+Making;Tech+Enthusiast+%E2%9A%BD+Sportsperson;Open+Source+Contributor" alt="Typing SVG" /></a>
 
-🚀About Me
+<!-- TODO: Add your pixel art GIF character here -->
+<!-- <img src="pixel-character.gif" alt="Pixel Art Character" width="120"/> -->
 
-Hi, I’m Sahil Patel, a Computer Engineer passionate about AI, Full Stack Development, and Cloud Computing. I graduated from CHARUSAT University (CGPA: 9.35) and have built a strong foundation in competitive coding, real-world projects, and open-source collaboration.⚽🏓
+<br/>
 
-Always eager to innovate, I specialize in scalable applications, AI/ML solutions, and cloud infrastructure. I stay active in the tech community and continuously explore emerging technologies to solve real-world challenges.
-
-💼 Professional Experience
-
-🔹Associate Software Engineer @ Digiflux Technologies
-Building AI-driven applications, integrating LLMs, LangChain, OpenAI, and leveraging AWS (SageMaker, DynamoDB, Lambda, CloudWatch) for scalable solutions.
-
-🔹.NET Developer Intern @ L&T Technology Services
-Engineered web applications using ASP.NET MVC, ASP.NET Core, C#, and JavaScript, streamlining business processes.
-
-🔹Full Stack Developer Intern @ Motorola Solutions
-Developed full-stack applications using MEAN stack (MongoDB, Express, Angular, Node.js),
-
-🔹Python Developer Intern (AI-ML) @ L&T Energy-Power
-Created AI-powered chatbots using RASA, implementing real-world NLP solutions.
-
-🔬Research & Innovation
-📌 Co-authored Research Papers:
-✔️ Deep Learning for Question Paper Evaluation (Springer ICTIS 2024)
-✔️ Small Object Detection in Aerial Imagery (YOLOv8) (AIP ICRAIC 2024)
-
-Currently exploring Deep Learning & Cloud Computing in research projects.
-
-🛠️ Tech Stack & Skills
-💡 Languages: C/C++, Python, JavaScript/TypeScript, C#
-💡 Frameworks: Next.js, Angular, .NET, LangChain, ASP.NET MVC
-💡 Libraries: TensorFlow, NumPy, Pandas, Scikit-learn, React
-💡 Cloud & DevOps: AWS SageMaker, Docker, Power BI, PostgreSQL, MongoDB
-
-I stay active in the developer community, contributing to open-source projects and participating in tech events, hackathons, and AI/ML forums.
-
-⚽Beyond Tech
-As an avid, competitive footballer, I have represented my university in the National West Zone Inter-University Football Tournament (2022 and 2023). The discipline, resilience, and teamwork I’ve learned from sports seamlessly translate into my approach to problem-solving and collaboration in tech.
-
-🤝Let’s Connect
-I’m always open to collaborations, discussions, and opportunities in AI, Full Stack Development, and Cloud Engineering. If you’re working on an innovative project or just want to geek out over the latest in AI/ML, let’s talk! 🚀
-
-📩 **Email: patelsahil2k03@gmail.com**
-
-🔗 **LinkedIn: linkedin.com/in/sahil-patel-581226205**
-
-👨‍💻 **GitHub: github.com/patelsahil2k03**
-
-💡 **LeetCode: leetcode.com/patelsahil2k03**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-patel-581226205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-patel-581226205" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/sahil_patel010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sahil_patel010" height="30" width="40" /></a>
-<a href="https://medium.com/@patelsahil2k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@patelsahil2k03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC-8ewi6QuzDW8l5x9OysdtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-8ewi6quzdw8l5x9oysdta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sahilpatel2k03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sahilpatel2k03" height="30" width="40" /></a>
-<a href="https://leetcode.com/patelsahil2k03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/patelsahil2k03/" height="30" width="40" /></a>
+<!-- Profile Views & Social Quick Links -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patelsahil2k03&label=Profile%20Views&color=f75c7e&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/sahil-patel-581226205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:patelsahil2k03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/patelsahil2k03">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelsahil2k03&show_icons=true&locale=en&layout=compact" alt="patelsahil2k03" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelsahil2k03&show_icons=true&locale=en" alt="patelsahil2k03" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelsahil2k03&" alt="patelsahil2k03" /></p>
+```yaml
+name: Sahil Patel
+role: Associate Software Engineer @ Digiflux Technologies
+location: India 🇮🇳
+education: B.E. Computer Engineering | CHARUSAT University | CGPA 9.35/10
+tagline: "Building AI-driven solutions | Scaling cloud infrastructure | Scoring goals ⚽"
+current_focus:
+  - Integrating LLMs (LangChain, OpenAI, AWS SageMaker)
+  - Full-stack development with Next.js & Angular
+  - Deep Learning research & Cloud Computing
+open_to: Collaborations | Open Source | AI/ML Projects
+```
 
-<!---
-patelsahil2k03/patelsahil2k03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **What I Do:**  
+I craft scalable AI/ML applications, build full-stack solutions, and architect cloud infrastructure. From developing AI-powered chatbots to deploying microservices on AWS, I thrive at the intersection of innovation and engineering excellence.
+
+🎓 **Education:**  
+B.E. Computer Engineering, CHARUSAT University (CGPA: 9.35/10)
+
+⚡ **Fun Fact:**  
+I've represented my university at the National West Zone Inter-University Football Tournament (2022 & 2023). Discipline from the field translates to resilience in code! ⚽
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelsahil2k03&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelsahil2k03&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelsahil2k03&theme=radical&hide_border=true&background=0d1117&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak Stats"/>
+
+</div>
+
+---
+
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> **Note:** Set up WakaTime GitHub Action with your API key stored in repository secrets
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### **Frameworks & Libraries**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/patelsahil2k03/mcp-agentic-rag-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=mcp-agentic-rag-demo&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/patelsahil2k03/patelsahil2k03.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=patelsahil2k03.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/patelsahil2k03/sharp-tannan-task-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=sharp-tannan-task-tracker&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/patelsahil2k03/it-analytics-platform-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=it-analytics-platform-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/patelsahil2k03/modern-fullstack-business-card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=modern-fullstack-business-card&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/patelsahil2k03?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-f75c7e?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 **Associate Software Engineer** | Digiflux Technologies
+`Current Position`
+- Building AI-driven applications with **LLMs, LangChain, OpenAI**
+- Architecting scalable cloud solutions on **AWS** (SageMaker, DynamoDB, Lambda, CloudWatch)
+- Developing production-grade microservices and APIs
+
+### 🔹 **.NET Developer Intern** | L&T Technology Services
+`Previous Role`
+- Engineered enterprise web applications using **ASP.NET MVC, ASP.NET Core, C#**
+- Streamlined business workflows with efficient backend solutions
+
+### 🔹 **Full Stack Developer Intern** | Motorola Solutions
+`Previous Role`
+- Built full-stack applications with **MEAN stack** (MongoDB, Express, Angular, Node.js)
+- Delivered end-to-end feature implementations
+
+### 🔹 **Python Developer Intern (AI-ML)** | L&T Energy-Power
+`Previous Role`
+- Developed AI-powered chatbots using **RASA framework**
+- Implemented real-world NLP solutions for business automation
+
+---
+
+## 📚 Research & Publications
+
+<table>
+<tr>
+<td width="50%">
+
+**🔬 Deep Learning for Question Paper Evaluation**  
+📖 Published in **Springer ICTIS 2024**  
+🔗 Co-authored research paper
+
+</td>
+<td width="50%">
+
+**🔬 Small Object Detection in Aerial Imagery (YOLOv8)**  
+📖 Published in **AIP ICRAIC 2024**  
+🔗 Co-authored research paper
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 Achievement | 📅 Year | 🎯 Details |
+|---------------|---------|-----------|
+| **Nvidia Certified** | 2024 | Deep Learning & AI Certification |
+| **National Football Tournament** | 2022, 2023 | Represented CHARUSAT University at National West Zone Inter-University Football Tournament |
+| **Academic Excellence** | 2024 | CGPA 9.35/10 in Computer Engineering |
+| **Research Publications** | 2024 | 2 Co-authored papers in Springer & AIP conferences |
+
+</div>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> **Medium:** [@patelsahil2k03](https://medium.com/@patelsahil2k03)
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelsahil2k03&theme=react-dark&hide_border=true&bg_color=0d1117&color=f75c7e&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## ⚽ Beyond Tech
+
+> **"The discipline, resilience, and teamwork I've learned from sports seamlessly translate into my approach to problem-solving and collaboration in tech."**
+
+🏃‍♂️ **Competitive Footballer** - Represented university at national level tournaments  
+🎯 **Tech Community** - Active in open-source, hackathons, and AI/ML forums  
+📚 **Continuous Learner** - Always exploring emerging technologies and best practices  
+🌍 **Open to Opportunities** - Collaborations, innovative projects, and challenging problems
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations, and opportunities in **AI/ML, Full Stack Development, and Cloud Engineering**. Whether you're building something innovative or just want to discuss the latest in tech, let's connect! 🚀
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-patel-581226205">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:patelsahil2k03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/patelsahil2k03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/patelsahil2k03">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://medium.com/@patelsahil2k03">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.instagram.com/sahil_patel010">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC-8ewi6QuzDW8l5x9OysdtA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.codechef.com/users/sahilpatel2k03">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting! Have a great day! ✨
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
+
+---
+
+<!-- 
+🎨 Cyberpunk Theme Colors Used:
+- Background: #0d1117
+- Primary Accent: #f75c7e (Neon Pink)
+- Secondary Accent: #58a6ff (Electric Blue)
+- Text: #c9d1d9 (Light Gray)
+
+📝 TODO List for Sahil:
+1. [ ] Create custom cyberpunk banner (Tools: Canva, Photoshop, or AI generators)
+2. [ ] Generate pixel art character GIF (Use prompt provided in IMPROVEMENT_PLAN.md)
+3. [ ] Set up WakaTime GitHub Action (Store API key in repository secrets)
+4. [ ] Set up Medium blog RSS feed action (Optional)
+5. [ ] Add any custom GIFs or images to make it more personal
+
+📚 Resources Used:
+- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+- GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+- Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats
+- Shields.io: https://shields.io/
+- Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+-->
