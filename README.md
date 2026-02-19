@@ -124,26 +124,53 @@ I've represented my university at the National West Zone Inter-University Footba
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Frameworks & Libraries**
+### **Frontend Frameworks & Libraries**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **AI/ML & Data Science**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-0467DF?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -183,28 +210,70 @@ Personal portfolio showcasing projects, publications, and professional journey.
 
 ---
 
+## 🎯 Other Notable Projects
+
+### 🧠 Pre-Exam Question Paper Quality Test
+**Tech:** Python, BERT, Bi-LSTM, NLP | **Accuracy: 98.04%**  
+Automated quality evaluation system based on Bloom's Taxonomy. Achieved 98.04% accuracy on 2,809 instances using deep learning.  
+📚 **Published:** Springer ICTIS 2024 (SCOPUS Indexed) - First Author  
+[![Publication](https://img.shields.io/badge/Springer_ICTIS_2024-SCOPUS_Indexed-f75c7e?style=flat-square)](https://link.springer.com)
+
+### 👄 Lip Reading & Fruit Detection App
+**Tech:** Python, CNN, TensorFlow, Flutter | **Accuracy: 93% (Lip), 88% (Fruit)**  
+Built CNN-based lip-reading model and mobile app for fruit classification using 3,115 images dataset.  
+[![GitHub](https://img.shields.io/badge/Academic_Project-CHARUSAT-58a6ff?style=flat-square)](https://github.com/patelsahil2k03)
+
+---
+
 ## 💼 Professional Experience
 
-### 🔹 **Associate Software Engineer** | Digiflux Technologies
-`Current Position`
-- Building AI-driven applications with **LLMs, LangChain, OpenAI**
-- Architecting scalable cloud solutions on **AWS** (SageMaker, DynamoDB, Lambda, CloudWatch)
-- Developing production-grade microservices and APIs
+### 🚀 **Associate Software Engineer** | Digiflux Technologies
+`Jan 2024 – Present` | 🌟 **Team Star Award (June 2024)**
 
-### 🔹 **.NET Developer Intern** | L&T Technology Services
-`Previous Role`
-- Engineered enterprise web applications using **ASP.NET MVC, ASP.NET Core, C#**
-- Streamlined business workflows with efficient backend solutions
+**Impact & Key Achievements:**
 
-### 🔹 **Full Stack Developer Intern** | Motorola Solutions
-`Previous Role`
-- Built full-stack applications with **MEAN stack** (MongoDB, Express, Angular, Node.js)
-- Delivered end-to-end feature implementations
+💰 **FinTech Platform (2M+ Users):**
+- Deployed **50+ serverless AWS Lambda scrapers** for real-time data aggregation
+- Built **React Native mobile app** with trade alerts for stock market analysis
+- Implemented AI-powered services with **LangChain & OpenAI** for efficient market insights
 
-### 🔹 **Python Developer Intern (AI-ML)** | L&T Energy-Power
-`Previous Role`
-- Developed AI-powered chatbots using **RASA framework**
-- Implemented real-world NLP solutions for business automation
+🍔 **FoodTech Platform (UAE, 125K+ Customers):**
+- Engineered **AI Coach with GPT-4** and meal subscription chatbot reducing manual intervention
+- Achieved **90%+ accuracy** in food scanning using USDA database & Google Gemini AI
+- Architected sales forecasting model with **CNN+LSTM achieving 93.17% accuracy**
+- Created **20+ RESTful APIs**, dashboards; Optimized PostgreSQL queries for performance
+
+🏥 **HealthTech Platform (44K+ Workers):**
+- Developed **agentic AI chatbot** with LangChain & RAG architecture
+- Scraped global tuberculosis information for knowledge base
+- **Reduced manual intervention by 40%** through intelligent automation
+
+🎨 **AI SaaS Products:**
+- Created **Adobe Photoshop plugin** (React) for AI-powered image enhancement
+- Implemented **large-scale web scrapers** for enterprise data collection
+
+**Tech Stack:** Python, React.js, React Native, Next.js, LangChain, OpenAI, AWS (Lambda, SageMaker, DynamoDB, CloudWatch), Docker, PostgreSQL, MongoDB, FastAPI
+
+---
+
+### 🔧 **Web Development Intern** | L&T Technology Services
+`May 2023 – July 2023`
+- Designed web request forms using **C#, JavaScript, ASP.NET MVC**
+- Streamlined client data collection workflows with efficient backend solutions
+
+---
+
+### 🤖 **Machine Learning Intern** | L&T Energy-Power
+`May 2022 – June 2022`
+- Implemented **AI Chatbots using RASA framework**
+- Worked on **Natural Language Processing** and conversational AI projects
+
+---
+
+### 💻 **Internship Trainee** | Motorola Solutions
+`May 2022 – Nov 2022`
+- **MEAN Stack Developer** - Specialized in Node.js, Express, Angular, SQL
+- Participated in design reviews and collaborative projects
 
 ---
 
@@ -265,10 +334,22 @@ Personal portfolio showcasing projects, publications, and professional journey.
 
 > **"The discipline, resilience, and teamwork I've learned from sports seamlessly translate into my approach to problem-solving and collaboration in tech."**
 
-🏃‍♂️ **Competitive Footballer** - Represented university at national level tournaments  
-🎯 **Tech Community** - Active in open-source, hackathons, and AI/ML forums  
-📚 **Continuous Learner** - Always exploring emerging technologies and best practices  
-🌍 **Open to Opportunities** - Collaborations, innovative projects, and challenging problems
+### 🏆 Football Achievements:
+- 🥇 **National West Zone Inter-University Football Tournament** - CHARUSAT Team Member (2022, 2023)
+- ⚽ **University Level Representation** - Competed against top engineering colleges across India
+- 🎯 **Leadership & Strategy** - Team player with captain qualities: resilience, communication, pressure management
+
+### 💻 Tech Community:
+- 🔬 **AI/ML Core Team** - CHARUSAT Learning & Development Club
+- 🏆 **Top 10 Finalist** - AI-Manthan Hackathon by AtliQ Technologies (70+ teams)
+- 📚 **Open Source Contributor** - Active in GitHub community, helping fellow developers
+- 🎤 **Conference Speaker** - Presented research at ICTIS 2024 (Ahmedabad) & ICRAIC 2024
+
+### 🌍 What Drives Me:
+- 💡 **Impact at Scale** - Building AI/ML solutions that serve millions of users
+- 🤝 **Collaborative Problem Solving** - Thriving in cross-functional teams
+- 📈 **Continuous Growth** - Always learning emerging technologies (currently exploring advanced RAG architectures)
+- 🎯 **Real-World Applications** - Bridging research and production-grade systems
 
 ---
 
