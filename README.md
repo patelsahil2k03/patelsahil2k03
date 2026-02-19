@@ -87,6 +87,21 @@ I've represented my university at the National West Zone Inter-University Footba
 
 ---
 
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+![Top 10 Finalist](https://img.shields.io/badge/🏆_Top_10_Finalist-AI--Manthan_Hackathon-f75c7e?style=for-the-badge)
+![Team Star Award](https://img.shields.io/badge/⭐_Team_Star_Award-Digiflux_2024-58a6ff?style=for-the-badge)
+![Publications](https://img.shields.io/badge/📚_2_Research_Papers-SCOPUS_Indexed-f75c7e?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/💻_100+_Problems-LeetCode-58a6ff?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/🎓_CGPA_9.35/10-CHARUSAT-f75c7e?style=for-the-badge)
+![National Athlete](https://img.shields.io/badge/⚽_National_Athlete-Football-58a6ff?style=for-the-badge)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -122,33 +137,34 @@ I've represented my university at the National West Zone Inter-University Footba
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🔬 ForeSight - IT Project Risk Prediction
+**Tech:** Python, FastAPI, Next.js 15, PostgreSQL, dbt, Docker  
+Built enterprise ML platform for operational risk prediction with real-time dashboards, anomaly detection, and cost forecasting—delivered in 24 hours.  
+[![Repo](https://img.shields.io/badge/View_Repo-it--analytics--platform--backend-f75c7e?style=for-the-badge&logo=github)](https://github.com/patelsahil2k03/it-analytics-platform-backend)
 
-<a href="https://github.com/patelsahil2k03/mcp-agentic-rag-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=mcp-agentic-rag-demo&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+### 🤖 MCP Agentic RAG Demo
+**Tech:** Python, LangChain, OpenAI, RAG Architecture  
+Step-by-step guide to building an Agentic RAG system with Model Context Protocol integration.  
+[![Repo](https://img.shields.io/badge/View_Repo-mcp--agentic--rag--demo-58a6ff?style=for-the-badge&logo=github)](https://github.com/patelsahil2k03/mcp-agentic-rag-demo)
 
-<a href="https://github.com/patelsahil2k03/patelsahil2k03.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=patelsahil2k03.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+### 🍔 Meal Subscription Chatbot & Sales Forecasting
+**Tech:** Next.js, LangChain, Python, OpenAI, CNN+LSTM, MongoDB  
+AI chatbot automating meal subscriptions + Time series forecasting with 93.17% accuracy on live sales data.  
+[![Private](https://img.shields.io/badge/Private_Project-Digiflux-f75c7e?style=for-the-badge)](https://www.linkedin.com/in/sahil-patel-581226205)
 
-<a href="https://github.com/patelsahil2k03/sharp-tannan-task-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=sharp-tannan-task-tracker&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+### 🎯 Sharp Tannan Task Tracker
+**Tech:** Node.js, React, PostgreSQL, Authentication & Roles  
+Full-stack task management system with user authentication, role-based access control, and real-time updates.  
+[![Repo](https://img.shields.io/badge/View_Repo-sharp--tannan--task--tracker-58a6ff?style=for-the-badge&logo=github)](https://github.com/patelsahil2k03/sharp-tannan-task-tracker)
 
-<a href="https://github.com/patelsahil2k03/it-analytics-platform-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=it-analytics-platform-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/patelsahil2k03/modern-fullstack-business-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=patelsahil2k03&repo=modern-fullstack-business-card&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
+### 🌐 Portfolio Website
+**Tech:** React, Next.js, Modern UI/UX  
+Personal portfolio showcasing projects, publications, and professional journey.  
+[![Repo](https://img.shields.io/badge/View_Repo-patelsahil2k03.github.io-f75c7e?style=for-the-badge&logo=github)](https://github.com/patelsahil2k03/patelsahil2k03.github.io) [![Live](https://img.shields.io/badge/Live_Site-patelsahil2k03.github.io-58a6ff?style=for-the-badge&logo=vercel)](https://patelsahil2k03.github.io)
 
 <div align="center">
   <a href="https://github.com/patelsahil2k03?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-f75c7e?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/View_All_21_Projects-f75c7e?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
   </a>
 </div>
 
@@ -179,41 +195,37 @@ I've represented my university at the National West Zone Inter-University Footba
 
 ---
 
-## 📚 Research & Publications
+## 📚 Research Publications
 
-<table>
-<tr>
-<td width="50%">
+| Title | Conference | Status | Role | Year |
+|-------|-----------|--------|------|------|
+| **Revolutionizing Educational Assessment: Deep Learning for Question Paper Quality Evaluation** | Springer ICTIS 2024 | 📗 SCOPUS Indexed | 🥇 First Author | 2024 |
+| **Enhancing Small Object Detection in Aerial Imagery Using YOLOv8 Architecture** | AIP ICRAIC 2024 | 📗 SCOPUS & Web of Science | 🥈 Co-Author | 2024 |
 
-**🔬 Deep Learning for Question Paper Evaluation**  
-📖 Published in **Springer ICTIS 2024**  
-🔗 Co-authored research paper
-
-</td>
-<td width="50%">
-
-**🔬 Small Object Detection in Aerial Imagery (YOLOv8)**  
-📖 Published in **AIP ICRAIC 2024**  
-🔗 Co-authored research paper
-
-</td>
-</tr>
-</table>
+> **Model Accuracy:** Pre-Exam Question Paper Quality Test achieved **98.04% accuracy** using Bi-LSTM and BERT on 2,809 instances
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🎓 Certifications & Achievements
 
-<div align="center">
+### 🏆 Competition Highlights
+- 🥇 **Top 10 Finalist** - AI-Manthan Hackathon by AtliQ Technologies (70+ teams, January 2025)
+- ⭐ **Team Star Award** - Digiflux Technologies (June 2024)
+- 🏅 **100+ LeetCode Problems Solved** - [Profile](https://leetcode.com/patelsahil2k03)
 
-| 🏅 Achievement | 📅 Year | 🎯 Details |
-|---------------|---------|-----------|
-| **Nvidia Certified** | 2024 | Deep Learning & AI Certification |
-| **National Football Tournament** | 2022, 2023 | Represented CHARUSAT University at National West Zone Inter-University Football Tournament |
-| **Academic Excellence** | 2024 | CGPA 9.35/10 in Computer Engineering |
-| **Research Publications** | 2024 | 2 Co-authored papers in Springer & AIP conferences |
+### 📜 Certifications
+- 🥇 **NVIDIA Certified** - AI/Deep Learning Fundamentals
+- ☁️ **AWS Certified Cloud Practitioner**
+- 📜 **Google Cloud Platform** - 8 Skill Badges (2023), Cloud Engineer Path (2022)
+- 🎖️ **NPTEL Cloud Computing** - Elite Certificate (66%, IIT Kharagpur)
 
-</div>
+### ⚽ Sports & Leadership
+- 🏅 **National West Zone Inter-University Football Tournament** - CHARUSAT Team Member (2022, 2023)
+- 🎯 **AI/ML Core Team** - CHARUSAT Learning & Development Club
+
+### 🗣️ Conference & Events
+- 🔬 **IndoML 2022** - Attended at IIT Gandhinagar
+- 📢 **Conference Presentations** - ICTIS 2024 (Ahmedabad) & ICRAIC 2024
 
 ---
 
