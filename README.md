@@ -4,7 +4,15 @@
 <!-- <img src="banner.png" alt="Sahil Patel - Software Engineer" width="100%"/> -->
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Patel;Associate+Software+Engineer;AI+%7C+ML+%7C+Full+Stack+Developer;Data+Scientist+in+Making;Tech+Enthusiast+%E2%9A%BD+Sportsperson;Open+Source+Contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sahil+Patel;Associate+Software+Engineer+%40+Digiflux;AI%2FML+Engineer+%7C+2M%2B+Users+Impact;Full+Stack+Developer+%7C+98%25%2B+ML+Accuracy;Data+Scientist+%7C+National+Athlete+%E2%9A%BD;Open+Source+Contributor" alt="Typing SVG" /></a>
+
+<br/>
+
+<div align="center">
+  
+### 🚀 Building AI/ML systems serving **2M+ users** | **98%+ model accuracy** | National athlete ⚽
+
+</div>
 
 <!-- TODO: Add your pixel art GIF character here -->
 <!-- <img src="pixel-character.gif" alt="Pixel Art Character" width="120"/> -->
@@ -36,16 +44,21 @@ name: Sahil Patel
 role: Associate Software Engineer @ Digiflux Technologies
 location: India 🇮🇳
 education: B.E. Computer Engineering | CHARUSAT University | CGPA 9.35/10
-tagline: "Building AI-driven solutions | Scaling cloud infrastructure | Scoring goals ⚽"
+tagline: "Scaling AI for 2M+ users | 98%+ ML accuracy | National Athlete ⚽"
 current_focus:
   - Integrating LLMs (LangChain, OpenAI, AWS SageMaker)
-  - Full-stack development with Next.js & Angular
-  - Deep Learning research & Cloud Computing
-open_to: Collaborations | Open Source | AI/ML Projects
+  - Full-stack development with Next.js, React, React Native
+  - Deep Learning research & Production ML deployment
+open_to: Collaborations | Open Source | AI/ML Projects | Challenging Problems
 ```
 
 💡 **What I Do:**  
-I craft scalable AI/ML applications, build full-stack solutions, and architect cloud infrastructure. From developing AI-powered chatbots to deploying microservices on AWS, I thrive at the intersection of innovation and engineering excellence.
+I build **AI/ML systems that scale**. From deploying solutions for **2M+ FinTech users** to achieving **98.04% accuracy** in research models, I thrive at the intersection of innovation and real-world impact. My work spans **AI-powered chatbots** (40% efficiency gains), **predictive models** (93%+ accuracy), and **full-stack applications** serving 125K+ customers.
+
+🔬 **Current Focus:**
+- **AI/ML:** LangChain, OpenAI, RAG architectures, LLMs, Deep Learning (TensorFlow, PyTorch)
+- **Cloud:** AWS (Lambda, SageMaker, DynamoDB, CloudWatch), Docker, Serverless Architecture
+- **Full-Stack:** Next.js, React, React Native, Node.js, Angular, FastAPI, Flask
 
 🎓 **Education:**  
 B.E. Computer Engineering, CHARUSAT University (CGPA: 9.35/10)
