@@ -59,8 +59,8 @@ I've represented my university at the National West Zone Inter-University Footba
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelsahil2k03&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelsahil2k03&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelsahil2k03&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f75c7e&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelsahil2k03&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f75c7e&text_color=c9d1d9"/>
 
 </div>
 
@@ -68,6 +68,12 @@ I've represented my university at the National West Zone Inter-University Footba
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelsahil2k03&theme=radical&hide_border=true&background=0d1117&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" alt="GitHub Streak Stats"/>
 
+</div>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=patelsahil2k03&color=f75c7e&style=flat-square&label=Profile+Views)
+  
 </div>
 
 ---
